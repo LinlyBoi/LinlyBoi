@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Linly
 - 👀 I’m interested in pretty much anything nerdy.
-- 🐧 I'm a sucker for opensource and Linux :P
-- 🌱 I’m currently learning HTML/CSS/JS
-- 🤓 I like to help people around with whatever little skillset I got :D
+- 🐧 I'm a sucker for opensource and Linux. :P
+- 🌱 I’m currently learning web development.
+- 🤓 I like to help people around with whatever little skillset I got. :D
 - 📫 You can contact me on Discord Macks#7168
 
 <!---
